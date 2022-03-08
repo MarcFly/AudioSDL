@@ -8,7 +8,7 @@
 
 
 #include "SDL_Mixer/include/SDL_mixer.h"
-#pragma comment( lib, "SDL_Mixer/lib/x86/SDL2_mixer.lib")
+#pragma comment( lib, "SDL_Mixer/lib_x86/SDL2_mixer.lib")
 
 #include "Entity.h"
 
